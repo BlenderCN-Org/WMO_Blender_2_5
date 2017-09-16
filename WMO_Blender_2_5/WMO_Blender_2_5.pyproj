@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a9df357b-d8e5-4ec2-a704-a787d9b7e269</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>WMO_Blender_2_5.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +22,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="WMO_Blender_2_5.py" />
+    <Compile Include="BSP_Tree.py" />
+    <Compile Include="Collision.py" />
+    <Compile Include="export_wmo.py" />
+    <Compile Include="import_wmo.py" />
+    <Compile Include="Utility.py" />
+    <Compile Include="wmo_format.py" />
+    <Compile Include="wmo_group.py" />
+    <Compile Include="wmo_root.py" />
+    <Compile Include="wow_custom_ui.py" />
+    <Compile Include="__init__.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
