@@ -5,8 +5,19 @@
 <img src="images/wmo_addon_preview.jpg">
 
 
-This is an addon for Blender 2.5+, entirely written in python, that allows import/export of World of warcraft's WMO files (v3.3.5).
+This is an addon for Blender 2.5+, that allows import/export of World of warcraft's WMO files (v3.3.5).
 
+### About the code
+This addon is entirely written in python.
+As for the solution file, this is a vs2017 project that requires Python tools. Don't worry if you don't have it installed, you can still edit the code. Nothing more than the .py files in the main folder are actually required.
+
+### Installation
+Just install it the same way its done with every blender addon.
+First go to your blender installation directory (by default <ProgramFiles>\Blender Foundation\Blender\<version>\scripts\addons\).
+There create a folder named "io_scene_wmo" then put inside all .py files from the WMO_Blender_2_5 folder in this repository.
+Then you start blender, go to User Preferences => Addons => Imort-Export => check "Wow WMO format". Done.
+
+### Documentation
 Not all features are supported yet, mostly because the format is obviously undocumented (and some piece of data seemed unused), but also because some features are not supported by blender at the time of the project (eg. normal editing is not supported by blender). But most usefull features are present and exported files are fully functionals.
 At the time I wrote this addon, it was one of the only softwares that supported creation of WMO with collisions.
 
