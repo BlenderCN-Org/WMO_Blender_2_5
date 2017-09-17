@@ -1,6 +1,6 @@
 This is an addon for Blender 2.5+ to read/write World of warcraft's WMOs (v3.3.5).
 
-Not all features are supported yet, mostly because the format is obviously undocumented (and some piece of data seemed unused). But most usefull features are present.
+Not all features are supported yet, mostly because the format is obviously undocumented (and some piece of data seemed unused), but also because some features are not supported by blender at the time of the project (eg. normal editing is not supported by blender). But most usefull features are present and exported files are fully functionals.
 At the time I wrote this addon, it was one of the only softwares that supported creation of WMO with collisions.
 
 The addon works as follow : 
