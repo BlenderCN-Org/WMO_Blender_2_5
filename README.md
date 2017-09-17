@@ -9,7 +9,7 @@ There is 4 new panels available.
 Each one contains settings used during export.
 
 <img align="left" src="images/wmo_addon_group_panel.png">
-__Wow WMO group__ panel is in Object properties, it shows options relative to wmo groups.
+<b>Wow WMO group</b> panel is in Object properties, it shows options relative to wmo groups.
 Group name/desc are optionnal and are just referenced from inside wmo, seems to have no effect.<br/>
 This panel MUST be enabled when exporting, else export will fail.
 <br/><br/><br/><br/><br/><br/>
