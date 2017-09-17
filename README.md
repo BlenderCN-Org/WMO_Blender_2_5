@@ -13,7 +13,7 @@ As for the solution file, this is a vs2017 project that requires Python tools. D
 
 ### Installation
 Just install it the same way its done with every blender addon.
-First go to your blender installation directory (by default &lt;ProgramFiles&gt;\Blender Foundation\Blender\&lt;version&gt;\scripts\addons\).
+First go to your blender installation directory (by default &lt;ProgramFiles&gt;\Blender Foundation\Blender\ &lt;version&gt;\scripts\addons\).
 There create a folder named "io_scene_wmo" then put inside all .py files from the WMO_Blender_2_5 folder in this repository.
 Then you start blender, go to User Preferences => Addons => Imort-Export => check "Wow WMO format". Done.
 
