@@ -1,5 +1,5 @@
 
-# WMO Addon for Blender 2.5
+# WMO Addon for Blender 2.5+
 
 
 <img src="images/wmo_addon_preview.jpg">
