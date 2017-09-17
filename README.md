@@ -28,9 +28,10 @@ If the panel is disabled, the material is not exported and assigned faces will n
 <img align="right" src="images/wmo_addon_light_panel.png">
 **Wow light** panel is in Data properties and are only visible when selecting a lamp. It shows options relative to wmo lights. This panel will probably change later.
 Lights are not exported for now.
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
-UV
+__UV__<br/>
 Only the active UV layer is exported. UV data imported are stored in "UVmap" layer.
 
-Vertex color
+__Vertex color__<br/>
 Only the active Vertex Color layer is exported. Vertex color data imported are stored in "Col" layer.
