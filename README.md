@@ -12,7 +12,7 @@ Each one contains settings used during export.
 **Wow WMO group** panel is in Object properties, it shows options relative to wmo groups.
 Group name/desc are optionnal and are just referenced from inside wmo, seems to have no effect.<br/>
 This panel MUST be enabled when exporting, else export will fail.
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <img align="right" src="images/wmo_addon_material_panel.png">
 **Wow material** panel is in Material properties, it shows options relative to wmo shader. The only options that are exported are shown in this panel (blender materials / texture are not exported)
@@ -23,7 +23,7 @@ If the panel is disabled, the material is not exported and assigned faces will n
 
 <img align="left" src="images/wmo_addon_collision_panel.png">
 **Wow collision** panel is in Data properties and are only visible when selecting a mesh. It shows options relative to wmo collisions. "collision vertex group" specifies the vertex group whose faces will be allowed to collide.
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align="right" src="images/wmo_addon_light_panel.png">
 **Wow light** panel is in Data properties and are only visible when selecting a lamp. It shows options relative to wmo lights. This panel will probably change later.
